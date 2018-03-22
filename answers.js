@@ -93,15 +93,19 @@ for (let i = 0; i < thomsCloset.length; i++) {
 // I'm not quite sure what to do here
 
 for (i=0; i < kristynsCloset; i++) {
-	console.log("WHIRR: Now washing [i]";
+	console.log("WHIRR: Now washing [i]");
 }
 
-let thomsCloset: ["grey button-up", "dark grey button-up", "light blue button-up", "blue button-up";]
+// let thomsCloset: ["grey button-up", "dark grey button-up", "light blue button-up", "blue button-up";]
 // gonna need help with thom's closet
 
 
- 		
- 	
+
+
+for (i = 0; i < 1000; i ++) {
+	if (i % 3 === 1000 && i % 5 === 1000);
+	console.log(i);
+}
 
 
 
