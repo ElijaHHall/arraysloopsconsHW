@@ -38,11 +38,25 @@ for (i = 1; i <= 100; i++) {
 		console.log("FizzBuzz");
 } 
 
-const thom = ["Gameboy", 1000, "Christchurch"]
-const karolin = ["Karolin", 17, "New York"]
-const kristyn = ["Kristyn", 5, "Pittsburgh"]
-const matt = ["Matt H", 186, "Philadelphia"]
+const thom = ["Gameboy", 1000, "Christchurch"];
+const karolin = ["Karolin", 17, "New York"];
+const kristyn = ["Kristyn", 5, "Pittsburgh"];
+const matt = ["Matt H", 186, "Philadelphia"] ;
 
+
+
+ 	var turtles = ["Donatello", "Leonardo", "Michaelangelo", "Raphael"];
+
+ 	for (var i = 0; i < ninjaTurtles.length; i++) {
+ 			turtles[i] = turtles[i].toUpperCase();
+ 	} 
+ 	
+
+ 	
+ 		
+
+ 		
+ 	
 
 
 
