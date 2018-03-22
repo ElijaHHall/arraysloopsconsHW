@@ -92,6 +92,14 @@ for (let i = 0; i < thomsCloset.length; i++) {
 
 // I'm not quite sure what to do here
 
+for (i=0; i < kristynsCloset; i++) {
+	console.log("WHIRR: Now washing [i]";
+}
+
+let thomsCloset: ["grey button-up", "dark grey button-up", "light blue button-up", "blue button-up";]
+// gonna need help with thom's closet
+
+
  		
  	
 
